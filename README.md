@@ -14,8 +14,8 @@
 | [Armmersive](https://github.com/chyzman/armmersive) | [![Badge showing the amount of downloads on modrinth](https://img.shields.io/badge/dynamic/json?color=2d2d2d&colorA=5da545&label=&suffix=%20downloads%20&query=downloads&url=https://api.modrinth.com/v2/project/XOSo49tE&style=flat-square&logo=modrinth&logoColor=2d2d2d)](https://modrinth.com/mod/armmersive) | [![Badge showing the amount of downloads on curseforge](https://cf.way2muchnoise.eu/full_1362712_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/armmersive) | [![Badge linking to issues on github](https://img.shields.io/badge/dynamic/json?query=value&url=https%3A%2F%2Fimg.shields.io%2Fgithub%2Fissues-raw%2Fchyzman%2Farmmersive.json&label=&logo=github&color=2d2d2d&style=flat-square&labelColor=6e5494&logoColor=2d2d2d&suffix=%20issues)](https://github.com/chyzman/armmersive/issues) |
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chyzman&theme=github_dark&hide_border=true&show_icons=true&hide=stars&hide_rank=true&custom_title=My%20Github%20Stats#gh-dark-mode-only)![Stats](https://github-readme-stats.vercel.app/api?username=chyzman&theme=github_light&hide_border=true&show_icons=true&hide=stars&hide_rank=true&custom_title=My%20Github%20Stats#gh-light-mode-only)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chyzman&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&custom_title=My%20Most%20Used%20Languages#gh-dark-mode-only)![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chyzman&layout=compact&langs_count=8&card_width=320&theme=github_light&hide_border=true&custom_title=My%20Most%20Used%20Languages#gh-light-mode-only)
+![Stats](https://github-readme-stats.vercel.app/api?username=chyzman&theme=github_dark&hide_border=true&show_icons=true&hide=stars,prs&show=prs_merged&hide_rank=true&custom_title=My%20Github%20Stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chyzman&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&custom_title=My%20Most%20Used%20Languages)
 
 
 
