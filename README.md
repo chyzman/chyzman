@@ -16,6 +16,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=chyzman&theme=github_dark&hide_border=true&show_icons=true&hide=stars,prs&show=prs_merged&hide_rank=true&custom_title=My%20Github%20Stats)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chyzman&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&custom_title=My%20Most%20Used%20Languages)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=chyzman&layout=compact&theme=github_dark&hide_border=true&custom_title=What%20I've%20Done%20This%20Week&card_width=625)
+
 
 
 
